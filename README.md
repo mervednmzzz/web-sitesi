@@ -3,6 +3,8 @@
 Görev bilgilerini saklamak için PostgreSQL veritabanını kullanır.Uygulama, görev ekleme, görev başlıklarını düzenleme, görev silme ve görevleri arşivleme/arşivden çıkarma gibi temel işlevselliği sağlar.odo-App, alışveriş listeleri yapmak, not almak veya etkinlik planlamak gibi birçok amaç için kullanılabilir.
 
 **** Özellikler ve Açıklama ****
+
+
 1.) Görevleri ve Başlığı  Ekleme
 ![image](https://github.com/mervednmzzz/web-sitesi/assets/147553962/44610c61-f2b9-41bf-9349-c4856a2dc915)
 
